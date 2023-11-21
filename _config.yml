@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王艺然(YiRan Wang)"
+title                    : "王艺然 (YiRan Wang)"
 description              : "西安电子科技大学人工智能学院智能感知与图像理解教育部重点实验室计算机科学与技术专业博士研究生"
 repository               : "xx"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王艺然(YiRan Wang)"
+  name             : "王艺然 (YiRan Wang)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "西安电子科技大学人工智能学院智能感知与图像理解教育部重点实验室计算机科学与技术专业博士研究生"
   location         : "xx"
