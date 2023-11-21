@@ -34,9 +34,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 [MsmcNet: A Modular Few-Shot Learning Framework for Signal Modulation Classification](https://ieeexplore.ieee.org/document/9832781)
 
-**Wang Y**, Bai J, Xiao Z, et al. Msmcnet: A modular few-shot learning framework for signal modulation classification[J]. **IEEE Transactions on Signal Processing**, 2022, 70: 3789-3801.
+**Wang Y**, Bai J, Xiao Z, et al. Msmcnet: A modular few-shot learning framework for signal modulation classification[J]. **IEEE Transactions on Signal Processing**, 2022, 70: 3789-3801.（国际信号处理顶级期刊，中科院一区Top，本人第一作者）
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际信号处理顶级期刊  IEEE TSP</div><img src='images/TII_FIG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RffAe-S: Autoencoder Based on Random Fourier Feature with Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)
+
+Bai J, **Wang Y**, Xiao Z, et al. RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering[J]. **IEEE Transactions on Industrial Informatics**, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院一区Top，导师第一作者，本人第一学生作者）
+</div>
+</div>
+
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
