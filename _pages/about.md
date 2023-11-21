@@ -23,7 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 教育经历
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09\-至今*: 西安电子科技大学人工智能学院，计算机科学与技术，博士研究生（硕博连读）。
+- *2020.09\-2022.06*: 西安电子科技大学人工智能学院，计算机科学与技术，硕士研究生（推荐免试）。
 - *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术，工学学士。
 
 # 📝 Publications 
