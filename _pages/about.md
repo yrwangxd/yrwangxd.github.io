@@ -55,15 +55,15 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 [8]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023***. IEEE, 2023: 6224-6227.
 
-[9]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，电磁信号聚类处理方法、装置及电子设备、可读存储介质，申请号：202210689343.8，申请日期：2022.06.16.
+[9]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
 
 - **视频智能行为识别分析系列成果**
   
 [10]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Circuits and Systems for Video Technology***, 2023. (Submitted) （多媒体技术领域国际顶级期刊，中科院1区Top，本人通讯作者）
 
-[11]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ksYnp5wAAAAJ&authuser=1&citation_for_view=ksYnp5wAAAAJ:Y0pCki6q_DkC)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
+[11]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=18510460hg5h0gs0170t02b0e5291260&site=xueshu_se)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
-[12]. 国家发明专利：白静，**王艺然**，任俊杰等人，基于轻量化卷积网络的淡水鱼图像实时识别方法，申请号：2021103089055，申请日期：2021.03.23.
+[12]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
