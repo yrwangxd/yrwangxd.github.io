@@ -76,6 +76,8 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 ## 💡 主持
 
+有限不均衡样本条件下的信号调制识别与可解释聚类研究，***中央高校基本科研业务费专项研究生创新基金项目***，2023
+
 ## 🍳 核心技术攻关负责人
 
 ## 📃 参与
