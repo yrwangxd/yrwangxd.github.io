@@ -74,7 +74,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 ## 📃 参与
 
 # 📢 学生工作
-- 西安电子科技大学人工智能学院第一届研究生会主席[^](https://sai.xidian.edu.cn/info/1097/6182.htm)
+- 西安电子科技大学人工智能学院第一届研究生会主席[^1](https://sai.xidian.edu.cn/info/1097/6182.htm)
 - 西安电子科技大学人工智能学院2020级学硕班班长
 - 西安电子科技大学人工智能学院智能科学与技术专业1602051班班长
 # 📋 学术兼职
