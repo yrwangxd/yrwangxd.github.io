@@ -29,22 +29,33 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 科研成果 
 - **信号智能调制识别系列成果**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际信号处理顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际信号处理领域顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[1]. [MsmcNet: A Modular Few-Shot Learning Framework for Signal Modulation Classification](https://ieeexplore.ieee.org/document/9832781)
-
-**Wang Y**, Bai J, Xiao Z, et al. Msmcnet: A modular few-shot learning framework for signal modulation classification[J]. **IEEE Transactions on Signal Processing**, 2022, 70: 3789-3801.（国际信号处理顶级期刊，中科院一区Top，本人第一作者）
+[1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. **IEEE Transactions on Signal Processing**, 2022, 70: 3789-3801.（国际信号处理领域顶级期刊，中科院一区Top，本人第一作者）
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig2.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig2.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[2]. [RffAe-S: Autoencoder Based on Random Fourier Feature with Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)
+[2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. **IEEE Transactions on Industrial Informatics**, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院一区Top，导师第一作者，本人第一学生作者）
+</div>
+</div>
 
-Bai J, **Wang Y**, Xiao Z, et al. RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering[J]. **IEEE Transactions on Industrial Informatics**, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院一区Top，导师第一作者，本人第一学生作者）
-</div>
-</div>
+[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. **IEEE Transactions on Information Forensics and Security**, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院一区Top，本人第一作者）
+
+[4]. Bai J, Lian Y, **Wang Y**, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. **IEEE Transactions on Instrumentation and Measurement**, 2023. (Submitted) （国际仪器测量领域著名期刊，中科院2区，本人通讯作者）
+
+[5]. Bai J, Liu X, **Wang Y**, et al. Integrating Prior Knowledge and Contrast Feature for Signal 
+Modulation Classification[J]. **IEEE Internet of Things Journal**, 2023. (Submitted) （中科院1区Top，本人通讯作者）
+
+[6]. Huaji Z, Jing B A I, **Yiran W**, et al. Few-shot electromagnetic signal classification: A data union augmentation method[J]. Chinese Journal of Aeronautics, 2022, 35(9): 49-57.（中科院2区，中国科技期刊卓越行动计划-领军期刊）
+
+[7]. Zhou H, Bai J, **Wang Y**, et al. Deep radio signal clustering with interpretability analysis based on saliency map[J]. Digital Communications and Networks, 2023.（中科院2区）
+
+[8]. Liu X, **Wang Y**, Bai J, et al. An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique[C]//IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6224-6227.
+
+
 - **视频智能行为识别分析系列成果**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
