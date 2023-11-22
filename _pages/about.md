@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2020.09\-2022.06*: 西安电子科技大学人工智能学院，计算机科学与技术，硕士研究生（推荐免试）。
 - *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术，工学学士。
 
-# 📝 Publications 
+# 📝 科研成果 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际信号处理顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
