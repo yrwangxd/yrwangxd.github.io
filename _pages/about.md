@@ -28,16 +28,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术，工学学士。
 
 # 📝 科研成果 
-- **信号智能调制识别系列成果**
+## 信号智能调制识别系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">信号处理领域国际顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院一区Top，本人第一作者）
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院一区Top，导师第一作者，本人第一学生作者）
 </div>
 </div>
@@ -57,7 +55,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 [9]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
 
-- **视频智能行为识别分析系列成果**
+## 视频智能行为识别分析系列成果
   
 [10]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Circuits and Systems for Video Technology***, 2023. (Submitted) （多媒体技术领域国际顶级期刊，中科院1区Top，本人通讯作者）
 
