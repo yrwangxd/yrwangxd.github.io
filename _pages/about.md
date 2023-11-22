@@ -67,10 +67,14 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 
 # 💻 科研项目
+## 主持
 
+## 核心技术攻关负责人
+
+## 参与
 
 # 📢 学生工作
-
+- 
 
 
 # 📋 学术兼职
