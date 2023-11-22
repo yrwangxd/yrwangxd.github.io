@@ -44,9 +44,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 [3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院一区Top，本人第一作者）
 
-[4]. Bai J, Lian Y, **Wang Y***, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2023. (Submitted) （仪器测量领域国际著名期刊，中科院2区，本人通讯作者）
+[4]. Bai J, Lian Y, **Wang Y\***, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2023. (Submitted) （仪器测量领域国际著名期刊，中科院2区，本人通讯作者）
 
-[5]. Bai J, Liu X, **Wang Y***, et al. Integrating Prior Knowledge and Contrast Feature for Signal 
+[5]. Bai J, Liu X, **Wang Y\***, et al. Integrating Prior Knowledge and Contrast Feature for Signal 
 Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Submitted) （中科院1区Top，本人通讯作者）
 
 [6]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院2区，中国科技期刊卓越行动计划-领军期刊）
@@ -59,8 +59,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 - **视频智能行为识别分析系列成果**
   
-[10]. Bai J, Zhang Y, **Wang Y***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Circuits and Systems for Video Technology
-***, 2023. (Submitted) （多媒体技术领域国际顶级期刊，中科院1区Top，本人通讯作者）
+[10]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Circuits and Systems for Video Technology***, 2023. (Submitted) （多媒体技术领域国际顶级期刊，中科院1区Top，本人通讯作者）
 
 [11]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=ksYnp5wAAAAJ&authuser=1&citation_for_view=ksYnp5wAAAAJ:Y0pCki6q_DkC)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
