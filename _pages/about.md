@@ -63,13 +63,12 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 [12]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 荣誉奖励
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
