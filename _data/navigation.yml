@@ -3,11 +3,8 @@ main:
   - title: "教育经历"
     url: "/#-教育经历"
 
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "科研成果"
+    url: "/#-科研成果"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
