@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术，工学学士。
 
 # 📝 科研成果 
-
+- 信号智能调制识别系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际信号处理顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 Bai J, **Wang Y**, Xiao Z, et al. RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering[J]. **IEEE Transactions on Industrial Informatics**, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院一区Top，导师第一作者，本人第一学生作者）
 </div>
 </div>
-
+- 视频智能行为识别分析系列成果
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
