@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-    王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、中国电子科技集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics（IEEE TII）等期刊发表论文多篇；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等期刊审稿专家；主要研究方向为信号智能调制识别和视频智能行为识别等领域。
+    王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、中国电子科技集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics（IEEE TII）等期刊发表论文多篇；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等期刊审稿专家；主要研究方向为信号调制智能识别和视频智能行为识别等领域。
 
 
 # 📖 教育经历
@@ -25,7 +25,7 @@ redirect_from:
 - *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术（双一流，国家级特色专业），工学学士。
 
 # 📝 科研成果 
-## 🎉 信号智能调制识别系列成果
+## 🎉 信号调制智能识别系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">信号处理领域国际顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院一区Top，本人第一作者）
