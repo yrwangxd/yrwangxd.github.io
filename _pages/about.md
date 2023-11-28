@@ -28,16 +28,16 @@ redirect_from:
 ## 🎉 信号调制智能识别系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">信号处理领域国际顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院一区Top，本人第一作者）
+[1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院1区Top，本人第一作者）
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院一区Top，导师第一作者，本人第一学生作者）
+[2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院1区Top，导师第一作者，本人第一学生作者）
 </div>
 </div>
 
-[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院一区Top，本人第一作者）
+[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院1区Top，本人第一作者）
 
 [4]. Bai J, Lian Y, **Wang Y\***, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2023. (Submitted) （仪器测量领域国际著名期刊，中科院2区，本人通讯作者）
 
