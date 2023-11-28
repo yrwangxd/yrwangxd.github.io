@@ -12,7 +12,7 @@ repository               : "xx"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-DZ3J3K5SLQ # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  zNwrcLtANaO9OCvIjDPAMG77ZXKjqFzAvJn586wZCeE # get google_site_verification from https://search.google.com/search-console/about
