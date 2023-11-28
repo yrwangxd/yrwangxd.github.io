@@ -109,5 +109,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 - 西安电子科技大学人工智能学院智能科学与技术专业1602051班班长
 
 # 📋 学术兼职
-- 
+- 信号处理领域国际顶级期刊 IEEE Transactions on Signal Processing，审稿人
+- 自动驾驶领域知名期刊 IEEE Transactions on Vehicular Technology，审稿人
+- 全球通信旗舰会议IEEE GLOBECOM 2023 Workshop WS07，Technical Program Chair
 
