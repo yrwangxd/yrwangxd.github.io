@@ -16,16 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-王艺然，男，中共党员，西安电子科技大学人工智能学院智能感知与图像理解教育部重点实验室计算机科学与技术专业博士研究生，
-xx
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+    王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、中国电子科技集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics（IEEE TII）等期刊发表论文多篇；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等期刊审稿专家；主要研究方向为信号智能调制识别和视频智能行为识别等领域。
 
 
 # 📖 教育经历
-- *2022.09\-至今*: 西安电子科技大学人工智能学院，计算机科学与技术，博士研究生（硕博连读）。
-- *2020.09\-2022.06*: 西安电子科技大学人工智能学院，计算机科学与技术，硕士研究生（推荐免试）。
-- *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术，工学学士。
+- *2022.09\-至今*: 西安电子科技大学人工智能学院，计算机科学与技术（双一流，ESI全球1‰），博士研究生（硕博连读）。
+- *2020.09\-2022.06*: 西安电子科技大学人工智能学院，计算机科学与技术（双一流，ESI全球1‰），硕士研究生（推荐免试）。
+- *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术（双一流，国家级特色专业），工学学士。
 
 # 📝 科研成果 
 ## 🎉 信号智能调制识别系列成果
