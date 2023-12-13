@@ -46,7 +46,7 @@ redirect_from:
 [6]. Bai J, Liu X, **Wang Y\***, et al. Integrating Prior Knowledge and Contrast Feature for Signal 
 Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Submitted) （中科院1区Top，本人通讯作者）
 
-[7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院2区，中国科技期刊卓越行动计划-领军期刊）
+[7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
 [8]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
 
