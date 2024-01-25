@@ -116,7 +116,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 - 面向开放场景的视频智能分析与识别系统，**北京鑫晟**
 - 基于深度方向波网络强化学习的遥感影像分类，**国家自然科学基金面上项目**
 - 教育部产学合作协同育人项目，**第四范式**
-- [《图像理解与计算机视觉》](https://www.icourse163.org/spoc/course/XDU-1463765161)图像描述与应用案例主讲人,[**陕西省一流精品课程**](http://jyt.shaanxi.gov.cn/news/jiaoyutingwenjian/202107/02/19248.html)
+- [《图像理解与计算机视觉》](https://www.icourse163.org/spoc/course/XDU-1463765161)第五讲图像描述与应用案例主讲人,[**陕西省一流精品课程**](http://jyt.shaanxi.gov.cn/news/jiaoyutingwenjian/202107/02/19248.html)
 
 # 📢 学生工作
 - 西安电子科技大学人工智能学院[第一届研究生会主席](https://sai.xidian.edu.cn/info/1097/6182.htm)
