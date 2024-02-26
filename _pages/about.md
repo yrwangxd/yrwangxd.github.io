@@ -36,7 +36,7 @@ redirect_from:
 </div>
 </div>
 
-[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院1区Top，本人第一作者）
+[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，本人第一作者）
 
 [4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Cognitive Communications and Networking***, 2023. (Submitted) （中科院1区，本人第一作者）
 
@@ -55,7 +55,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 ## 🎉 视频智能行为识别分析系列成果
   
-[11]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI)***, 2024. (Submitted) （国际人工智能领域顶级会议，CCF A类会议，本人通讯作者）
+[11]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，本人通讯作者）
 
 [12]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=18510460hg5h0gs0170t02b0e5291260&site=xueshu_se)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
@@ -114,7 +114,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Subm
 
 - 面向电磁信号增量识别的自进化学习技术，**中国电子科技集团第三十六研究所**，2022-2023
 - 基于可解释深度学习的视频群体行为识别技术，**陕西省重点研发创新项目**，2022-2023
-- 面向开放场景的视频智能分析与识别系统，**北京鑫晟**，
+- 面向开放场景的视频智能分析与识别系统，**北京鑫晟**，2022-2023
 - 基于深度方向波网络强化学习的遥感影像分类，**国家自然科学基金面上项目**，2018-2022
 - 教育部产学合作协同育人项目，**第四范式**，2021
 - [《图像理解与计算机视觉》](https://www.icourse163.org/spoc/course/XDU-1463765161)第五讲图像描述与应用案例主讲人，[**陕西省一流精品课程**](http://jyt.shaanxi.gov.cn/news/jiaoyutingwenjian/202107/02/19248.html)，2021
