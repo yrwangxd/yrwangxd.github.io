@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-    王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、物联网领域顶级期刊IEEE Internet of Things Journal (IEEE IoTJ)等期刊发表论文多篇；获受理、授权国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与会议审稿专家；研究方向为人工智能交叉研究方向，主要集中在信号调制智能识别和视频智能行为识别领域。
+    王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、物联网领域知名期刊IEEE Internet of Things Journal (IEEE IoTJ)、仪器测量领域知名期刊IEEE Transactions on Instrumentation and Measurement (IEEE TIM)等期刊发表论文多篇；获受理、授权国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与会议审稿专家；研究方向为人工智能交叉研究方向，主要集中在信号调制智能识别和视频智能行为识别领域。
 
 
 # 📖 教育经历
@@ -43,7 +43,7 @@ redirect_from:
 [5]. Bai J, Liu X, **Wang Y\***, et al. Integrating Prior Knowledge and Contrast Feature for Signal 
 Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Accepted) （中科院1区Top，本人通讯作者）
 
-[6]. Bai J, Lian Y, **Wang Y\***, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2023. (Submitted) （仪器测量领域国际著名期刊，中科院2区，本人通讯作者）
+[6]. Bai J, Lian Y, **Wang Y\***, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2023. (Accepted) （仪器测量领域国际著名期刊，中科院2区，本人通讯作者）
 
 [7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
