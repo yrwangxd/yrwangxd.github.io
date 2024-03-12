@@ -57,7 +57,7 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Acce
   
 [11]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，本人通讯作者）
 
-[12]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=18510460hg5h0gs0170t02b0e5291260&site=xueshu_se)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
+[12]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
 [13]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
 
