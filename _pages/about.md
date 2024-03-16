@@ -27,23 +27,23 @@ redirect_from:
 ## 🎉 信号调制智能识别系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">信号处理领域国际顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院1区Top，本人第一作者）
+[1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院1区Top，**本人第一作者**）
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院1区Top，导师第一作者，本人第一学生作者）
+[2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院1区Top，导师第一作者，**本人第一学生作者**）
 </div>
 </div>
 
-[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，本人第一作者）
+[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Submitted) （信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
 
-[4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Cognitive Communications and Networking***, 2023. (Submitted) （中科院1区，本人第一作者）
+[4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Cognitive Communications and Networking***, 2023. (Submitted) （中科院1区，**本人第一作者**）
 
 [5]. Bai J, Liu X, **Wang Y\***, et al. Integrating Prior Knowledge and Contrast Feature for Signal 
-Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Accepted) （中科院1区Top，本人通讯作者）
+Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Accepted) （中科院1区Top，**本人通讯作者**）
 
-[6]. Bai J, Lian Y, **Wang Y\***, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2023. (Accepted) （仪器测量领域国际著名期刊，中科院2区，本人通讯作者）
+[6]. Bai J, Lian Y, **Wang Y\***, et al. An Interpretable Explanation Approach for Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2023. (Accepted) （仪器测量领域国际著名期刊，中科院2区，**本人通讯作者**）
 
 [7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
@@ -61,11 +61,13 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Acce
 
 ## 🎉 视频智能行为识别分析系列成果
   
-[11]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，本人通讯作者）
+[14]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，**本人通讯作者**）
 
-[12]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
+[15]. Gu M, **Wang Y**, Bai J, et al. CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance[C]//2024 International Joint Conference on Neural Networks (IJCNN). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
-[13]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
+[16]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
+
+[17]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
 
 # 🎖️ 荣誉奖励
 
