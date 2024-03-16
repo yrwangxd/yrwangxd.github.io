@@ -65,11 +65,11 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Acce
 
 [15]. Bai J, Zhang Y, **Wang Y\***, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection (**ECCV**). 2024. (Submitted) （计算机视觉领域国际顶级会议，**本人通讯作者**）
 
-[15]. Gu M, **Wang Y**, Bai J, et al. CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
+[16]. Gu M, **Wang Y**, Bai J, et al. CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
-[16]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
+[17]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
-[17]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
+[18]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
 
 # 🎖️ 荣誉奖励
 
