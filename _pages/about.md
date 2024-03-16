@@ -49,9 +49,15 @@ Modulation Classification[J]. ***IEEE Internet of Things Journal***, 2023. (Acce
 
 [8]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
 
-[9]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023***. IEEE, 2023: 6224-6227.
+[9]. Zhang Z, **Wang Y**, Bai J, et al. Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network[C]//2024 International Joint Conference on Neural Networks (IJCNN). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
-[10]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
+[10]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6224-6227.
+
+[11]. Song K, **Wang Y**, Bai J, et al. SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+
+[12]. Li H, Zhang Y, Bai J, Xiao Z, **Wang Y**. ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+
+[13]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
 
 ## 🎉 视频智能行为识别分析系列成果
   
