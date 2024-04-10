@@ -43,7 +43,7 @@ redirect_from:
 [5]. Bai J, Liu X, **Wang Y\***, et al. [Integrating Prior Knowledge and Contrast Feature for Signal 
 Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. ***IEEE Internet of Things Journal***, 2024. （中科院1区Top，**本人通讯作者**）
 
-[6]. Bai J, Lian Y, **Wang Y\***, et al. [An Interpretable Explanation Approach for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10478967)[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024. （仪器测量领域国际著名期刊，中科院2区Top，**本人通讯作者**）
+[6]. Bai J, Lian Y, **Wang Y\***, et al. [An Interpretable Explanation Approach for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10478967)[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024, 73: 1-13. （仪器测量领域国际著名期刊，中科院2区Top，**本人通讯作者**）
 
 [7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
