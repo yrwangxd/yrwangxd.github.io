@@ -47,29 +47,31 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
-[8]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
+[8]. Bai J, Li H, **Wang Y**, et al. Oversampling based lmbalanced Signal Modulation Classification via Cosine-distance and Distribution[J]. ***IEEE Internet of Things Journal***, 2024. (Submitted) （中科院1区Top)
 
-[9]. Zhang Z, **Wang Y**, Bai J, et al. Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
+[9]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
 
-[10]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6224-6227.
+[10]. Zhang Z, **Wang Y**, Bai J, et al. Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
-[11]. Song K, **Wang Y**, Bai J, et al. SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+[11]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6224-6227.
 
-[12]. Li H, Zhang Y, Bai J, Xiao Z, **Wang Y**. ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+[12]. Song K, **Wang Y**, Bai J, et al. SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
 
-[13]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
+[13]. Li H, Zhang Y, Bai J, Xiao Z, **Wang Y**. ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+
+[14]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
 
 ## 🎉 视频智能行为识别分析系列成果
   
-[14]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，**本人通讯作者**）
+[15]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，**本人通讯作者**）
 
-[15]. Bai J, Zhang Y, **Wang Y\***, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//European Conference on Computer Vision (**ECCV**), 2024. (Submitted) （计算机视觉领域国际顶级会议，**本人通讯作者**）
+[16]. Bai J, Zhang Y, **Wang Y\***, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//European Conference on Computer Vision (**ECCV**), 2024. (Submitted) （计算机视觉领域国际顶级会议，**本人通讯作者**）
 
-[16]. Gu M, **Wang Y**, Bai J, et al. CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
+[17]. Gu M, **Wang Y**, Bai J, et al. CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
-[17]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
+[18]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
-[18]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
+[19]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
 
 # 🎖️ 荣誉奖励
 
