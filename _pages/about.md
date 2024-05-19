@@ -15,12 +15,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-    王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、物联网领域知名期刊IEEE Internet of Things Journal (IEEE IoTJ)、仪器测量领域知名期刊IEEE Transactions on Instrumentation and Measurement (IEEE TIM)等期刊发表论文多篇；获受理、授权国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与会议审稿专家；研究方向为人工智能交叉研究方向，主要集中在信号调制智能识别和视频智能行为识别领域。
+    王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、网络与信息安全领域国际顶级期刊IEEE Transactions on Information Forensics and Security (IEEE TIFS)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、物联网领域知名期刊IEEE Internet of Things Journal (IEEE IoTJ)、仪器测量领域知名期刊IEEE Transactions on Instrumentation and Measurement (IEEE TIM)等期刊发表论文多篇；获受理、授权国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与会议审稿专家；研究方向为人工智能交叉研究方向，主要集中在信号调制智能识别和视频智能行为识别领域。
 
 
 # 📖 教育经历
-- *2022.09\-至今*: 西安电子科技大学人工智能学院，计算机科学与技术（双一流，ESI全球1‰），博士研究生（硕博连读）。
-- *2020.09\-2022.06*: 西安电子科技大学人工智能学院，计算机科学与技术（双一流，ESI全球1‰），硕士研究生（推荐免试）。
+- *2022.09\-至今*: 西安电子科技大学人工智能学院，计算机科学与技术（双一流，ESI全球1‱），博士研究生（硕博连读）。
+- *2020.09\-2022.06*: 西安电子科技大学人工智能学院，计算机科学与技术（双一流，ESI全球1‱），硕士研究生（推荐免试）。
 - *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术（双一流，国家级特色专业），工学学士。
 
 # 📝 科研成果 
