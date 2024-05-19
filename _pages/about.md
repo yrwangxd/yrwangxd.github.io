@@ -36,7 +36,7 @@ redirect_from:
 </div>
 </div>
 
-[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Accepted) （信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
+[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Accepted) （网络与信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
 
 [4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Communications***, 2024. (Submitted) （通信领域国际顶级期刊，中科院2区Top，**本人第一作者**）
 
