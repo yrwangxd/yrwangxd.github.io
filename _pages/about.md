@@ -30,6 +30,7 @@ redirect_from:
 [1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院1区Top，**本人第一作者**）
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院1区Top，导师第一作者，**本人第一学生作者**）
@@ -46,10 +47,13 @@ redirect_from:
 [5]. Bai J, Liu X, **Wang Y\***, et al. [Integrating Prior Knowledge and Contrast Feature for Signal 
 Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. ***IEEE Internet of Things Journal***, 2024. （中科院1区Top，**本人通讯作者**）
 </div>
+</div>
 
-
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [6]. Bai J, Lian Y, **Wang Y\***, et al. [An Interpretable Explanation Approach for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10478967)[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024, 73: 1-13. （仪器测量领域国际著名期刊，中科院2区Top，**本人通讯作者**）
+</div>
+</div>
 
 [7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
