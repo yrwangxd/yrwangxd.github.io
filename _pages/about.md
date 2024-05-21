@@ -42,7 +42,7 @@ redirect_from:
 
 [4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Communications***, 2024. (Submitted) （通信领域国际顶级期刊，中科院2区Top，**本人第一作者**）
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/IOTJ.jpg' alt="sym" width="100%" height="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/IOTJ.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [5]. Bai J, Liu X, **Wang Y\***, et al. [Integrating Prior Knowledge and Contrast Feature for Signal 
 Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. ***IEEE Internet of Things Journal***, 2024. （中科院1区Top，**本人通讯作者**）
