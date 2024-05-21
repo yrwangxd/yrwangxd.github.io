@@ -49,7 +49,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">仪器测量领域国际著名期刊  IEEE TIM</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [6]. Bai J, Lian Y, **Wang Y\***, et al. [An Interpretable Explanation Approach for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10478967)[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024, 73: 1-13. （仪器测量领域国际著名期刊，中科院2区Top，**本人通讯作者**）
 </div>
