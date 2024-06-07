@@ -45,7 +45,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/IOTJ_small.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [5]. Bai J, Liu X, **Wang Y\***, et al. [Integrating Prior Knowledge and Contrast Feature for Signal 
-Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. ***IEEE Internet of Things Journal***, 2024. （中科院1区Top，**本人通讯作者**）
+Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. ***IEEE Internet of Things Journal***, 2024, 11(12): 21461-21473. （中科院1区Top，**本人通讯作者**）
 </div>
 </div>
 
