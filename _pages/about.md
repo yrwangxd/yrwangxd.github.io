@@ -33,7 +33,7 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">网络与信息安全领域国际顶级期刊  IEEE TIFS</div><img src='images/tifs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[2]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Accepted) （网络与信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
+[2]. **Wang Y**, Bai J, Xiao Z, et al. [AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10556687)[J]. ***IEEE Transactions on Information Forensics and Security***, 2024. （网络与信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
 </div>
 </div>
 
