@@ -31,13 +31,17 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">网络与信息安全领域国际顶级期刊  IEEE TIFS</div><img src='images/tifs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[2]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院1区Top，导师第一作者，**本人第一学生作者**）
+[2]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Accepted) （网络与信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
 </div>
 </div>
 
-[3]. **Wang Y**, Bai J, Xiao Z, et al. AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification[J]. ***IEEE Transactions on Information Forensics and Security***, 2023. (Accepted) （网络与信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">计算机与自动化控制系统方向国际顶尖期刊  IEEE TII</div><img src='images/fig5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[3]. Bai J, **Wang Y**, Xiao Z, et al. [RffAe-S: Autoencoder Based on Random Fourier Feature With Separable Loss for Unsupervised Signal Modulation Clustering](https://ieeexplore.ieee.org/abstract/document/9765659)[J]. ***IEEE Transactions on Industrial Informatics***, 2022, 18(11): 7910-7919.（计算机与自动化控制系统方向国际顶尖期刊，中科院1区Top，导师第一作者，**本人第一学生作者**）
+</div>
+</div>
 
 
 [4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Communications***, 2024. (Submitted) （通信领域国际顶级期刊，中科院2区Top，**本人第一作者**）
