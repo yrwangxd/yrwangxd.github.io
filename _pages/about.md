@@ -65,7 +65,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [9]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
 
-[10]. Zhang Z, **Wang Y**, Bai J, et al. Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
+[10]. Zhang Z, **Wang Y**, Bai J, et al. [Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network](https://confcats-siteplex.s3.us-east-1.amazonaws.com/wcci24/IEEE_WCCI_2024_Program_d597587f62.pdf)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
 [11]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6224-6227.
 
@@ -81,7 +81,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [16]. Bai J, Zhang Y, **Wang Y\***, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//European Conference on Computer Vision (**ECCV**), 2024. (Submitted) （计算机视觉领域国际顶级会议，**本人通讯作者**）
 
-[17]. Gu M, **Wang Y**, Bai J, et al. CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
+[17]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://confcats-siteplex.s3.us-east-1.amazonaws.com/wcci24/IEEE_WCCI_2024_Program_d597587f62.pdf)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
 [18]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
