@@ -69,9 +69,9 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [11]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6224-6227.
 
-[12]. Song K, **Wang Y**, Bai J, et al. SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+[12]. Song K, **Wang Y**, Bai J, et al. [SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER](https://2024.ieeeigarss.org/view_session.php?SessionID=1477)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
 
-[13]. Li H, Zhang Y, Bai J, Xiao Z, **Wang Y**. ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+[13]. Li H, Zhang Y, Gu M, Bai J, Xiao Z, **Wang Y**. [ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT](https://2024.ieeeigarss.org/view_session.php?SessionID=1335)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
 
 [14]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
 
