@@ -59,9 +59,9 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 </div>
 </div>
 
-[7]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
+[7]. Bai J, Li H, **Wang Y**, et al. Oversampling based lmbalanced Signal Modulation Classification via Cosine-distance and Distribution[J]. ***IEEE Internet of Things Journal***, 2024. (Accepted) （中科院1区Top，**本人通讯作者**)
 
-[8]. Bai J, Li H, **Wang Y**, et al. Oversampling based lmbalanced Signal Modulation Classification via Cosine-distance and Distribution[J]. ***IEEE Internet of Things Journal***, 2024. (Submitted) （中科院1区Top)
+[8]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
 [9]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
 
@@ -79,7 +79,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
   
 [15]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，**本人通讯作者**）
 
-[16]. Bai J, Zhang Y, **Wang Y\***, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//European Conference on Computer Vision (**ECCV**), 2024. (Submitted) （计算机视觉领域国际顶级会议，**本人通讯作者**）
+[16]. Bai J, Zhang Y, **Wang Y\***, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//European Conference on Computer Vision (**ECCV**), 2024. (Submitted) （计算机视觉领域国际顶级会议）
 
 [17]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://confcats-siteplex.s3.us-east-1.amazonaws.com/wcci24/IEEE_WCCI_2024_Program_d597587f62.pdf)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
 
