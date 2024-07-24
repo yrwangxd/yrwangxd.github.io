@@ -61,7 +61,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/SP_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[7]. Bai J, Li H, **Wang Y**, et al. [Oversampling based lmbalanced Signal Modulation Classification via Cosine-distance and Distribution](https://ieeexplore.ieee.org/document/10606450)[J]. ***IEEE Internet of Things Journal***, 2024.（中科院1区Top，**本人通讯作者**)
+[7]. Bai J, Li H, **Wang Y\***, et al. [Oversampling based lmbalanced Signal Modulation Classification via Cosine-distance and Distribution](https://ieeexplore.ieee.org/document/10606450)[J]. ***IEEE Internet of Things Journal***, 2024.（中科院1区Top，**本人通讯作者**)
 </div>
 </div>
 
