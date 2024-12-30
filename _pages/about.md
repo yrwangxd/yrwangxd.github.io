@@ -86,7 +86,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
   
 [15]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，**本人通讯作者**）
 
-[16]. Bai J, Zhang Y, **Wang Y**, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//IEEE Transactions on Circuits and Systems for Video Technology (**AAAI 2025**), 2025. (Submitted) （中科院一区Top）
+[16]. Bai J, Zhang Y, **Wang Y**, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//***IEEE Transactions on Circuits and Systems for Video Technology***, 2025. (Submitted) （中科院一区Top）
 
 [17]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://ieeexplore.ieee.org/abstract/document/10650614)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
