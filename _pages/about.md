@@ -169,5 +169,5 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 - 国际人工智能联合会议(CCF A) The 34th International Joint Conference on Artificial Intelligence (IJCAI-25), Program Committee Member
 - Winter Conference on Applications of Computer Vision (WACV) 2025，审稿人
 - 机器学习和计算神经科学领域国际顶级会议(CCF A) NeurIPS 2024，审稿人
-- 国际神经网络联合大会International Joint Conference on Neural Networks 2024 (IJCNN 2024)，TPC reviewer
+- 国际神经网络联合大会International Joint Conference on Neural Networks 2025、2024 (IJCNN 2025、IJCNN 2024)，TPC reviewer
 - 全球通信旗舰会议IEEE GLOBECOM 2023 Workshop WS07，Technical Program Chair
