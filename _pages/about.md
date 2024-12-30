@@ -72,13 +72,13 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [9]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
 
-[10]. Zhang Z, **Wang Y**, Bai J, et al. [Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network](https://confcats-siteplex.s3.us-east-1.amazonaws.com/wcci24/IEEE_WCCI_2024_Program_d597587f62.pdf)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
+[10]. Zhang Z, **Wang Y**, Bai J, et al. [Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network](https://ieeexplore.ieee.org/abstract/document/10651357)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
 [11]. Liu X, **Wang Y**, Bai J, et al. [An Imbalanced Signal Modulation Classification And Evaluation Method Based On Synthetic Minority Over-Sampling Technique](https://ieeexplore.ieee.org/abstract/document/10282649/)[C]//***IGARSS 2023*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2023: 6224-6227.
 
-[12]. Song K, **Wang Y**, Bai J, et al. [SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER](https://2024.ieeeigarss.org/view_session.php?SessionID=1477)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+[12]. Song K, **Wang Y**, Bai J, et al. [SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER](https://ieeexplore.ieee.org/abstract/document/10642299)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024: 9617-9622. 
 
-[13]. Li H, Zhang Y, Gu M, Bai J, Xiao Z, **Wang Y**. [ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT](https://2024.ieeeigarss.org/view_session.php?SessionID=1335)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024. (Accepted)
+[13]. Li H, Zhang Y, Gu M, Bai J, Xiao Z, **Wang Y**. [ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT](https://ieeexplore.ieee.org/abstract/document/10641799)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024: 10019-10024. 
 
 [14]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
 
@@ -86,9 +86,9 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
   
 [15]. Bai J, Zhang Y, **Wang Y\***, et al. Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition[J]. ***IEEE Transactions on Mobile Computing***, 2024. (Submitted) （CCF A类期刊，**本人通讯作者**）
 
-[16]. Bai J, Zhang Y, **Wang Y**, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**), 2024. (Submitted) （人工智能领域国际顶级会议，CCF A类会议）
+[16]. Bai J, Zhang Y, **Wang Y**, et al. SWW: Demonstrating the Potential of Compact Framework in Video Action Detection[C]//IEEE Transactions on Circuits and Systems for Video Technology (**AAAI 2025**), 2025. (Submitted) （中科院一区Top）
 
-[17]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://confcats-siteplex.s3.us-east-1.amazonaws.com/wcci24/IEEE_WCCI_2024_Program_d597587f62.pdf)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024. (Accepted)（国际神经网络联合大会，CCF C类）
+[17]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://ieeexplore.ieee.org/abstract/document/10650614)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
 [18]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
@@ -165,3 +165,4 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 - 机器学习和计算神经科学领域国际顶级会议 NeurIPS 2024，审稿人
 - 全球通信旗舰会议IEEE GLOBECOM 2023 Workshop WS07，Technical Program Chair
 - 国际神经网络联合大会International Joint Conference on Neural Networks 2024 (IJCNN 2024)，TPC reviewer
+- Winter Conference on Applications of Computer Vision (WACV) 2025，审稿人
