@@ -1,5 +1,12 @@
-@@ -1,4 +1,4 @@
 ---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 permalink: /
 title: ""
 author_profile: true
