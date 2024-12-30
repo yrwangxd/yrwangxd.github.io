@@ -158,11 +158,13 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 - 西安电子科技大学人工智能学院智能科学与技术专业1602051班班长
 
 # 📋 学术兼职
+- **期刊：**
 - 信号处理领域国际顶级期刊 IEEE Transactions on Signal Processing，审稿人
 - 自动驾驶领域知名期刊 IEEE Transactions on Vehicular Technology，审稿人
 - 人工智能领域中科院二区期刊 Applied Intelligence 审稿人
+- **会议：**
 - 人工智能领域国际顶级会议 ICLR 2025，审稿人
-- 机器学习和计算神经科学领域国际顶级会议 NeurIPS 2024，审稿人
-- 全球通信旗舰会议IEEE GLOBECOM 2023 Workshop WS07，Technical Program Chair
-- 国际神经网络联合大会International Joint Conference on Neural Networks 2024 (IJCNN 2024)，TPC reviewer
 - Winter Conference on Applications of Computer Vision (WACV) 2025，审稿人
+- 机器学习和计算神经科学领域国际顶级会议 NeurIPS 2024，审稿人
+- 国际神经网络联合大会International Joint Conference on Neural Networks 2024 (IJCNN 2024)，TPC reviewer
+- 全球通信旗舰会议IEEE GLOBECOM 2023 Workshop WS07，Technical Program Chair
