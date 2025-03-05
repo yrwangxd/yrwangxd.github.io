@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-    &emsp; 王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、网络与信息安全领域国际顶级期刊IEEE Transactions on Information Forensics and Security (IEEE TIFS)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、物联网领域知名期刊IEEE Internet of Things Journal (IEEE IoTJ)、仪器测量领域知名期刊IEEE Transactions on Instrumentation and Measurement (IEEE TIM)等期刊发表论文多篇；获授权、受理国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与机器学习和计算神经科学领域国际顶级会议NeurIPS、人工智能领域国际学术会议ICLR等国际会议审稿人；<br /> &emsp; **研究方向为人工智能交叉研究方向，主要集中在信号调制智能识别和视频智能行为识别领域**，具体如下：<br /> &emsp; &emsp; - 无线态势智能感知与识别（涵盖信号调制智能识别、干扰信号类型及参数识别等）； <br /> &emsp; &emsp; - 低空飞行器智能感知（涵盖辐射源个体识别、基于机会照射源的被动式感知等）；<br /> &emsp; &emsp; - 可信可解释识别决策；<br /> &emsp; &emsp; - 视频智能行为识别。 <br /> &emsp; 累计发表、录用论文14篇，在投2篇；授权、受理国家发明专利3项；其中以**第一作者、第一学生作者、通讯作者身份**共发表**中科院一区Top期刊5篇、中科院二区Top期刊2篇**。
+    &emsp; 王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、网络与信息安全领域国际顶级期刊IEEE Transactions on Information Forensics and Security (IEEE TIFS)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、物联网领域知名期刊IEEE Internet of Things Journal (IEEE IoTJ)、仪器测量领域知名期刊IEEE Transactions on Instrumentation and Measurement (IEEE TIM)等期刊发表论文多篇；获授权、受理国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与机器学习和计算神经科学领域国际顶级会议NeurIPS、人工智能领域国际学术会议ICLR等国际会议审稿人；<br /> &emsp; **研究方向为人工智能交叉研究方向，主要集中在信号调制智能识别和视频智能行为识别领域**，具体如下：<br /> &emsp; &emsp; - 无线态势智能感知与识别（涵盖信号调制智能识别、干扰信号类型及参数识别等）； <br /> &emsp; &emsp; - 低空飞行器智能感知（涵盖辐射源个体识别、基于机会照射源的被动式感知等）；<br /> &emsp; &emsp; - 可信可解释识别决策；<br /> &emsp; &emsp; - 视频智能行为识别。 <br /> &emsp; 累计发表、录用论文14篇，在投2篇；授权、受理国家发明专利4项；其中以**第一作者、第一学生作者、通讯作者身份**共发表**中科院一区Top期刊5篇、中科院二区Top期刊2篇**。
 
 
 # 📖 教育经历
@@ -93,6 +93,8 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 [18]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
 [19]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
+
+[20]. 国家发明专利：张玉想，陈铮，白静，**王艺然**，刘学波，焦李成，[基于有效运动先验的视频行为关键帧采样方法](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNDExMjIxNjU4MjISEENOMjAyNDEwNDQxNzQ2LlgaCHUzMnF0bWE2)，申请号：CN202410441746.X，申请日期：2024.04.12.
 
 # 🎖️ 荣誉奖励
 
