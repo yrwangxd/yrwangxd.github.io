@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-    &emsp; 王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、网络与信息安全领域国际顶级期刊IEEE Transactions on Information Forensics and Security (IEEE TIFS)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、移动计算与计算机网络领域国际顶级期刊IEEE Transactionson Mobile Computing (IEEE TMC)、物联网领域知名期刊IEEE Internet of Things Journal (IEEE IoTJ)、仪器测量领域知名期刊IEEE Transactions on Instrumentation and Measurement (IEEE TIM)等期刊发表论文多篇；获授权、受理国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与机器学习和计算神经科学领域国际顶级会议NeurIPS、人工智能领域国际学术会议ICLR等国际会议审稿人；<br /> &emsp; **研究方向为人工智能交叉研究方向，主要集中在信号调制智能识别和视频智能行为识别领域**，具体如下：<br /> &emsp; &emsp; - 无线信号智能感知与识别（涵盖信号调制智能识别、干扰信号类型及参数识别等）； <br /> &emsp; &emsp; - 低空飞行器智能感知（涵盖辐射源个体识别、基于机会照射源的被动式感知等）；<br /> &emsp; &emsp; - 可信可解释识别决策；<br /> &emsp; &emsp; - 视频智能行为识别；<br /> &emsp; &emsp; - 识别、规划及决策相关垂域大模型解决方案设计。 <br /> &emsp; 累计发表、录用论文14篇，在投1篇；授权、受理国家发明专利4项；其中以**第一作者、第一学生作者、通讯作者身份**共发表**中科院一区Top期刊6篇、中科院二区Top期刊1篇**。
+    &emsp; 王艺然，男，中共党员，西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业博士研究生；主持中央高校基本科研业务费专项研究生创新基金项目一项；作为核心技术负责人参与包含国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国防重点实验室课题等多项技术攻关项目；在信号处理领域国际顶级期刊IEEE Transactions on Signal Processing (IEEE TSP)、网络与信息安全领域国际顶级期刊IEEE Transactions on Information Forensics and Security (IEEE TIFS)、计算机与自动化控制系统方向顶级期刊IEEE Transactions on Industrial Informatics (IEEE TII)、移动计算与计算机网络领域国际顶级期刊IEEE Transactionson Mobile Computing (IEEE TMC)、物联网领域知名期刊IEEE Internet of Things Journal (IEEE IoTJ)、仪器测量领域知名期刊IEEE Transactions on Instrumentation and Measurement (IEEE TIM)等期刊发表论文多篇；获授权、受理国家发明专利多项；任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE Transactions on Vehicular Technology (IEEE TVT)等国际期刊与机器学习和计算神经科学领域国际顶级会议NeurIPS、人工智能领域国际学术会议ICLR等国际会议审稿人；<br /> &emsp; **研究方向为人工智能交叉研究方向，主要集中在智能认知无线信号处理、视频智能识别分析处理和通用人工智能方法设计**，具体如下：<br /> &emsp; &emsp; - 无线信号智能感知与识别（涵盖信号调制智能识别、干扰信号类型及参数识别、认知无线电等）； <br /> &emsp; &emsp; - 低空飞行器智能感知（涵盖辐射源个体识别、基于机会照射源的被动式感知等）；<br /> &emsp; &emsp; - 可信可解释识别决策；<br /> &emsp; &emsp; - 视频智能行为识别；<br /> &emsp; &emsp; - 识别、规划及决策相关垂域大模型解决方案设计。 <br /> &emsp; 累计发表、录用论文14篇，在投1篇；授权、受理国家发明专利4项；其中以**第一作者、第一学生作者、通讯作者身份**共发表**中科院一区Top期刊6篇、中科院二区Top期刊1篇**。
 
 
 # 📖 教育经历
@@ -24,7 +24,7 @@ redirect_from:
 - *2016.09\-2020.06*: 西安电子科技大学人工智能学院，智能科学与技术（双一流，国家级特色专业），工学学士。
 
 # 📝 科研成果 
-## 🎉 信号调制智能识别系列成果
+## 🎉 智能认知无线信号处理系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">信号处理领域国际顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院1区Top，**本人第一作者**）
@@ -82,7 +82,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [14]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
 
-## 🎉 视频智能行为识别分析系列成果
+## 🎉 视频智能识别分析处理系列成果
   
 [15]. Bai J, Zhang Y, **Wang Y\***, et al. [Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10884961)[J]. ***IEEE Transactions on Mobile Computing***, 2025.（CCF A类期刊，中科院一区Top，**本人通讯作者**）
 
