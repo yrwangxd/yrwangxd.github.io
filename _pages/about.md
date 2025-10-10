@@ -64,9 +64,6 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 </div>
 </div>
 
-
-
-
 [8]. Huaji Z, Jing B A I, **Yiran W**, et al. [Few-shot electromagnetic signal classification: A data union augmentation method](https://www.sciencedirect.com/science/article/pii/S1000936121002764)[J]. ***Chinese Journal of Aeronautics***, 2022, 35(9): 49-57.（中科院1区，中国科技期刊卓越行动计划-领军期刊）
 
 [9]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
@@ -78,6 +75,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 [12]. Song K, **Wang Y**, Bai J, et al. [SILENT AND HIGH DYNAMIC TARGET RECOGNITION USING SINGLE FM RECEIVER](https://ieeexplore.ieee.org/abstract/document/10642299)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024: 9617-9622. 
 
 [13]. Li H, Zhang Y, Gu M, Bai J, Xiao Z, **Wang Y**. [ENCRYPTED TRAFFIC CLASSIFICATION FRAMEWORK BASED ON ALBERT](https://ieeexplore.ieee.org/abstract/document/10641799)[C]//***IGARSS 2024*** IEEE International Geoscience and Remote Sensing Symposium. IEEE, 2024: 10019-10024. 
+
 [14]. 李浩然, **王艺然**, 白静, 等. 基于确定性过采样的不平衡航空通信信号调制识别[J]. 空军工程大学学报, 2025, 26(3): 18-25.
 
 [15]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
