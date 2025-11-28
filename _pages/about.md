@@ -27,13 +27,13 @@ redirect_from:
 ## 🎉 智能认知无线信号处理系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">信号处理领域国际顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院1区Top，**本人第一作者**）
+[1]. **Wang Y**, Bai J, Xiao Z, et al. [Msmcnet: A modular few-shot learning framework for signal modulation classification](https://ieeexplore.ieee.org/document/9832781)[J]. ***IEEE Transactions on Signal Processing***, 2022, 70: 3789-3801.（信号处理领域国际顶级期刊，中科院1区Top，**第一作者**）
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">网络与信息安全领域国际顶级期刊  IEEE TIFS</div><img src='images/tifs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[2]. **Wang Y**, Bai J, Xiao Z, et al. [AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10556687)[J]. ***IEEE Transactions on Information Forensics and Security***, 2024, 19: 6225-6236. （网络与信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**本人第一作者**）
+[2]. **Wang Y**, Bai J, Xiao Z, et al. [AutoSMC: An Automated Machine Learning Framework for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10556687)[J]. ***IEEE Transactions on Information Forensics and Security***, 2024, 19: 6225-6236. （网络与信息安全领域国际顶级期刊，中科院1区Top，CCF A类期刊，**第一作者**）
 </div>
 </div>
 
@@ -44,7 +44,7 @@ redirect_from:
 </div>
 
 
-[4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024. (Submitted) （仪器测量领域国际著名期刊，中科院2区Top，**本人第一作者**）
+[4]. **Wang Y**, Bai J, Xiao Z, et al. A Generating and Screening Framework for Class-Imbalanced Signal Modulation Classification[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024. (Submitted) （仪器测量领域国际著名期刊，中科院2区Top，**第一作者**）
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/IOTJ_small.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,13 +55,13 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">仪器测量领域国际著名期刊  IEEE TIM</div><img src='images/TIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[6]. Bai J, Lian Y, **Wang Y\***, et al. [An Interpretable Explanation Approach for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10478967)[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024, 73: 1-13. （仪器测量领域国际著名期刊，中科院2区Top，**本人通讯作者**）
+[6]. Bai J, Lian Y, **Wang Y\***, et al. [An Interpretable Explanation Approach for Signal Modulation Classification](https://ieeexplore.ieee.org/document/10478967)[J]. ***IEEE Transactions on Instrumentation and Measurement***, 2024, 73: 1-13. （仪器测量领域国际著名期刊，中科院2区Top，**通讯作者**）
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">物联网领域国际知名期刊  IEEE IOTJ</div><img src='images/SP_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[7]. Bai J, Li H, **Wang Y\***, et al. [Oversampling based lmbalanced Signal Modulation Classification via Cosine-distance and Distribution](https://ieeexplore.ieee.org/document/10606450)[J]. ***IEEE Internet of Things Journal***, 2024.（中科院1区Top，**本人通讯作者**)
+[7]. Bai J, Li H, **Wang Y\***, et al. [Oversampling based lmbalanced Signal Modulation Classification via Cosine-distance and Distribution](https://ieeexplore.ieee.org/document/10606450)[J]. ***IEEE Internet of Things Journal***, 2024.（中科院1区Top，**通讯作者**)
 </div>
 </div>
 
@@ -83,7 +83,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 ## 🎉 视频智能识别分析处理系列成果
   
-[16]. Bai J, Zhang Y, **Wang Y\***, et al. [Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10884961)[J]. ***IEEE Transactions on Mobile Computing***, 2025.（CCF A类期刊，中科院一区Top，**本人通讯作者**）
+[16]. Bai J, Zhang Y, **Wang Y\***, et al. [Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10884961)[J]. ***IEEE Transactions on Mobile Computing***, 2025.（CCF A类期刊，中科院一区Top，**通讯作者**）
 
 [17]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://ieeexplore.ieee.org/abstract/document/10650614)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
