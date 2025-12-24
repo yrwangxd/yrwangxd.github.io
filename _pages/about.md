@@ -23,6 +23,10 @@ redirect_from:
 - *2020.09\-2025.09*: 西安电子科技大学，人工智能学院，计算机科学与技术（双一流，ESI全球1‱），工学博士。
 - *2016.09\-2020.06*: 西安电子科技大学，人工智能学院，智能科学与技术（双一流，国家级特色专业），工学学士。
 
+# 📰 News 
+- 2025年12月 2025 11th International Conference on Systems and Informatics 会议作口头报告！
+- 2025年11月 国家发明专利电磁信号聚类处理方法、装置及电子设备、可读存储介质获授权并公开！
+
 # 📝 科研成果 
 ## 🎉 智能认知无线信号处理系列成果
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">信号处理领域国际顶级期刊  IEEE TSP</div><img src='images/TSP_FIG.png' alt="sym" width="100%"></div></div>
@@ -79,7 +83,8 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [14]. 李浩然, **王艺然**, 白静, 等. 基于确定性过采样的不平衡航空通信信号调制识别[J]. 空军工程大学学报, 2025, 26(3): 18-25.
 
-[15]. 国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，申请日期：2022.06.16.
+[15]. 已授权国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，专利号：
+CN115130502B，申请日期：2022.06.16，授权日期：2025.09.01.
 
 ## 🎉 视频智能识别分析处理系列成果
   
