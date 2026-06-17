@@ -22,6 +22,7 @@ redirect_from:
 
 
 # 📰 News 
+- 2026年06月 指导本科生获2026 10th International Conference on Electronic Information Technology and Computer Engineering国际学术会议Best Oral Award!
 - 2026年05月 项目立项：类不平衡信号调制识别及深度可解释聚类决策研究，中央高校基本科研业务费专项资金项目，主持，20.00万元！
 - 2026年04月 面向智慧农业的多模态大模型检索增强生成决策引擎v1.0.0上线! 官方网址：[https://www.iplab.tech/](https://www.iplab.tech/) ！
 - 2026年01月 项目立项：具身服务大模型技术开发，深圳润物信息科技有限公司，主持，49.00万元！
