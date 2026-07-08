@@ -145,6 +145,7 @@ CN115130502B，申请日期：2022.06.16，授权日期：2025.09.01.
 - **期刊：**
 - 信号处理领域国际顶级期刊 IEEE Transactions on Signal Processing，审稿人
 - 自动驾驶领域知名期刊 IEEE Transactions on Vehicular Technology，审稿人
+- 模式识别领域国际著名期刊 Pattern Recognition，审稿人
 - 人工智能领域中科院二区期刊 Applied Intelligence 审稿人
 - **会议：**
 - 人工智能领域国际顶级会议 ICLR 2025，审稿人
