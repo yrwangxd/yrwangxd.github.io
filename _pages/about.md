@@ -98,7 +98,7 @@ CN115130502B，申请日期：2022.06.16，授权日期：2025.09.01.
 
 [16]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://ieeexplore.ieee.org/abstract/document/10650614)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
-[17]. Li H, Niu Y, Lin J, H Yu, W Jiang, **Y Wang\***. [Task Adaptive and Negative Prototype Generators Based Network For Few-shot Open-set Recognition](https://ieeexplore.ieee.org/abstract/document/11345842)[C]//2025 11th International Conference on Systems and Informatics[C]//2025 11th International Conference on Systems and Informatics (ICSAI). IEEE, 2025: 1-7.
+[17]. Li H, Niu Y, Lin J, H Yu, W Jiang, **Y Wang\***. [Task Adaptive and Negative Prototype Generators Based Network For Few-shot Open-set Recognition](https://ieeexplore.ieee.org/abstract/document/11345842)[C]//2025 11th International Conference on Systems and Informatics (ICSAI). IEEE, 2025: 1-7.
 
 [18]. 王 琨, 赵丹丹, 孙凯将, **王艺然\***, 郝文璐. [抗图像大旋转和大尺度差异的视觉导航定位方法](http://www.zggxjsxb.com/CN/abstract/abstract215.shtml)[J]. 中国惯性技术学报, 2026, 34(7): 695-701.
 
