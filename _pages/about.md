@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-    &emsp; 王艺然，男，中共党员；西北农林科技大学高层次引进人才，机电学院，电子信息工程系，副教授；西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业毕业，研究生学历，工学博士学位。<br /> &emsp; 👉︎作为核心技术负责人参与国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国家重点实验室课题等多项技术攻关项目，主持企事业单位委托项目、中央高校基本科研业务费专项项目等。 <br /> &emsp; 👉︎累计发表、录用论文16篇；授权、受理国家发明专利4项；其中以**第一作者、通讯作者**共发表**中科院一区Top期刊5篇、中科院二区Top期刊1篇**；其中在信号处理领域国际顶级期刊IEEE TSP、网络与信息安全领域国际顶级期刊IEEE TIFS、计算机与自动化控制系统方向顶级期刊IEEE TII、移动计算与计算机网络领域国际顶级期刊IEEE TMC、物联网领域知名期刊IEEE IoTJ、仪器测量领域知名期刊IEEE TIM等期刊发表论文多篇。任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE TVT等国际期刊与机器学习和计算神经科学领域国际顶级会议NeurIPS、人工智能领域国际学术会议ICLR等国际会议审稿人。<br /> &emsp; 👉︎**研究方向为人工智能交叉研究方向，主要集中在智能认知无线信号处理、视频智能识别分析处理和通用人工智能方法设计**，具体如下：<br /> &emsp; &emsp; - 无线信号智能认知（涵盖通信信号识别、干扰信号类型及参数识别、认知无线电等）； <br /> &emsp; &emsp; - 识别、规划及决策相关垂域大模型设计（涵盖多模态大模型、RAG、知识图谱等）；<br /> &emsp; &emsp; - 低空飞行器智能感知（涵盖辐射源个体识别、基于机会照射源的被动式感知等）；<br /> &emsp; &emsp; - 可信可解释识别决策（涵盖可信方法设计、决策解释、反馈优化等）；<br /> &emsp; &emsp; - 图像、视频智能识别（涵盖视频行为识别、变化检测、图像目标识别等）。
+    &emsp; 王艺然，男，中共党员；西北农林科技大学高层次引进人才，机电学院，电子信息工程系，副教授；西安电子科技大学人工智能学院，智能感知与图像理解教育部重点实验室，计算机科学与技术专业毕业，研究生学历，工学博士学位。<br /> &emsp; 👉︎作为核心技术负责人参与国家自然科学基金面上项目、航空科学基金、中国电子科技集团技术研发项目、中国航空工业集团技术研发项目和国家重点实验室课题等多项技术攻关项目，主持企事业单位委托项目、中央高校基本科研业务费专项项目等。 <br /> &emsp; 👉︎累计发表、录用论文17篇；授权、受理国家发明专利4项；其中以**第一作者、通讯作者**共发表**中科院一区Top期刊5篇、中科院二区Top期刊1篇**；其中在信号处理领域国际顶级期刊IEEE TSP、网络与信息安全领域国际顶级期刊IEEE TIFS、计算机与自动化控制系统方向顶级期刊IEEE TII、移动计算与计算机网络领域国际顶级期刊IEEE TMC、物联网领域知名期刊IEEE IoTJ、仪器测量领域知名期刊IEEE TIM等期刊发表论文多篇。任信号处理领域国际顶级期刊IEEE TSP、自动驾驶领域知名期刊IEEE TVT等国际期刊与机器学习和计算神经科学领域国际顶级会议NeurIPS、人工智能领域国际学术会议ICLR等国际会议审稿人。<br /> &emsp; 👉︎**研究方向为人工智能交叉研究方向，主要集中在智能认知无线信号处理、视频智能识别分析处理和通用人工智能方法设计**，具体如下：<br /> &emsp; &emsp; - 无线信号智能认知（涵盖通信信号识别、干扰信号类型及参数识别、认知无线电等）； <br /> &emsp; &emsp; - 识别、规划及决策相关垂域大模型设计（涵盖多模态大模型、RAG、知识图谱等）；<br /> &emsp; &emsp; - 低空飞行器智能感知（涵盖辐射源个体识别、基于机会照射源的被动式感知等）；<br /> &emsp; &emsp; - 可信可解释识别决策（涵盖可信方法设计、决策解释、反馈优化等）；<br /> &emsp; &emsp; - 图像、视频智能识别（涵盖视频行为识别、变化检测、图像目标识别等）。
 
 &emsp; [西北农林科技大学机电学院个人主页](https://cmee.nwsuaf.edu.cn/szdw/gjzcry/54b9ae6ceb3f4e6dbb7fdace64a2fdbe.htm) &emsp; [百度百科主页](https://baike.baidu.com/item/%E7%8E%8B%E8%89%BA%E7%84%B6/67052566)
 
@@ -92,19 +92,21 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 [14]. 已授权国家发明专利：周华吉，**王艺然**，任俊杰等人，[电磁信号聚类处理方法、装置及电子设备、可读存储介质](https://xueshu.baidu.com/usercenter/paper/show?paperid=1t410x40d15m00e0vu5x0ps0gs080249&site=xueshu_se)，申请号：202210689343.8，专利号：
 CN115130502B，申请日期：2022.06.16，授权日期：2025.09.01.
 
-## 🎉 视频智能识别分析处理系列成果
+## 🎉 视频智能识别分析处理及多模态系列成果
   
-[15]. Bai J, Zhang Y, **Wang Y\***, et al. [Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10884961)[J]. ***IEEE Transactions on Mobile Computing***, 2025.（CCF A类期刊，中科院一区Top，**通讯作者**）
+[15]. Bai J, Zhang Y, **Wang Y\***, et al. [Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10884961)[J]. ***IEEE Transactions on Mobile Computing***, 2025, 24(7): 6197-6208.（CCF A类期刊，中科院一区Top，**通讯作者**）
 
 [16]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://ieeexplore.ieee.org/abstract/document/10650614)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
-[17]. Li H, Niu Y, Lin J, H Yu, W Jiang, **Y Wang\***. Task Adaptive and Negative Prototype Generators Based Network For Few-shot Open-set Recognition[C]//2025 11th International Conference on Systems and Informatics (ICSAI). IEEE, 2026: 1-7.
+[17]. Li H, Niu Y, Lin J, H Yu, W Jiang, **Y Wang\***. Task Adaptive and Negative Prototype Generators Based Network For Few-shot Open-set Recognition[C]//2025 11th International Conference on Systems and Informatics[C]//2025 11th International Conference on Systems and Informatics (ICSAI). IEEE, 2025: 1-7.
 
-[18]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
+[18]. 王 琨, 赵丹丹, 孙凯将, **王艺然\***, 郝文璐. 抗图像大旋转和大尺度差异的视觉导航定位方法[J]. 中国惯性技术学报, 2026, 34(7): 695-701.
 
-[19]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
+[19]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
-[20]. 国家发明专利：张玉想，陈铮，白静，**王艺然**，刘学波，焦李成，[基于有效运动先验的视频行为关键帧采样方法](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNDExMjIxNjU4MjISEENOMjAyNDEwNDQxNzQ2LlgaCHUzMnF0bWE2)，申请号：CN202410441746.X，申请日期：2024.04.12.
+[20]. 国家发明专利：白静，**王艺然**，任俊杰等人，[基于轻量化卷积网络的淡水鱼图像实时识别方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1r7n0pr0a25x08m071780v50v4190831&site=xueshu_se)，申请号：2021103089055，申请日期：2021.03.23.
+
+[21]. 国家发明专利：张玉想，陈铮，白静，**王艺然**，刘学波，焦李成，[基于有效运动先验的视频行为关键帧采样方法](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNDExMjIxNjU4MjISEENOMjAyNDEwNDQxNzQ2LlgaCHUzMnF0bWE2)，申请号：CN202410441746.X，申请日期：2024.04.12.
 
 # 💻 科研项目
 
