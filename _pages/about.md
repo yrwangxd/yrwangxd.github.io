@@ -100,7 +100,7 @@ CN115130502B，申请日期：2022.06.16，授权日期：2025.09.01.
 
 [17]. Li H, Niu Y, Lin J, H Yu, W Jiang, **Y Wang\***. [Task Adaptive and Negative Prototype Generators Based Network For Few-shot Open-set Recognition](https://ieeexplore.ieee.org/abstract/document/11345842)[C]//2025 11th International Conference on Systems and Informatics (ICSAI). IEEE, 2025: 1-7.
 
-[18]. 王 琨, 赵丹丹, 孙凯将, **王艺然\***, 郝文璐. [抗图像大旋转和大尺度差异的视觉导航定位方法](http://www.zggxjsxb.com/CN/abstract/abstract215.shtml)[J]. 中国惯性技术学报, 2026, 34(7): 695-701.
+[18]. 王 琨, 赵丹丹, 孙凯将, **王艺然**, 郝文璐. [抗图像大旋转和大尺度差异的视觉导航定位方法](http://www.zggxjsxb.com/CN/abstract/abstract215.shtml)[J]. 中国惯性技术学报, 2026, 34(7): 695-701.
 
 [19]. 已授权国家发明专利：白静，**王艺然**，李超贤等人，[基于无监督视频表示学习的视频行为识别方法](http://epub.cnipa.gov.cn/patent/CN111832516A)，申请号：202010708067.6，专利号：CN111832516B，申请日期：2020.07.22，授权日期：2023.07.20.
 
