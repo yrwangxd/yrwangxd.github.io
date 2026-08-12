@@ -79,7 +79,7 @@ Modulation Classification](https://ieeexplore.ieee.org/document/10473047)[J]. **
 
 [8]. Zhou H, Bai J, **Wang Y**, et al. [Deep radio signal clustering with interpretability analysis based on saliency map](https://www.sciencedirect.com/science/article/pii/S2352864823000238)[J]. ***Digital Communications and Networks***, 2023.（中科院2区）
 
-[9]. Chen M, **Wang Y\***, Zhai X, et al. [A Physics-Informed Neural Network Framework for Signal Modulation Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11634298)[C]2026 10th International Conference on Electronic Information Technology and Computer Engineering (EITCE). IEEE, 2026: 1-8. (获Best Oral Award!)
+[9]. Chen M, **Wang Y\***, Zhai X, et al. [A Physics-Informed Neural Network Framework for Signal Modulation Recognition](https://ieeexplore.ieee.org/document/11634298)[C]2026 10th International Conference on Electronic Information Technology and Computer Engineering (EITCE). IEEE, 2026: 1-8. (获Best Oral Award!)
 
 [10]. Zhang Z, **Wang Y**, Bai J, et al. [Uncovering the Authentic RF Fingerprint: Exploiting Random Window Slicing and Complex-Valued Network](https://ieeexplore.ieee.org/abstract/document/10651357)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
