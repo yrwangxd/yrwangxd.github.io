@@ -23,6 +23,7 @@ redirect_from:
 
 # 📰 News 
 
+- 2026年11月 团队本科生李文博论文“融合知识图谱与多视图证据的免训练植物病害检索歧义消解框架”获农业机械学报（国家一级学报，农业工程领域国内外著名权威期刊）录用！
 - 2026年10月 团队研究生穆廷睿等获“挑战杯”-2026年度[中国青年科技创新“揭榜挂帅”擂台赛全国三等奖](https://mp.weixin.qq.com/s?__biz=MzIwMDM2NzI2OA==&mid=2653931684&idx=1&sn=0b7a7ab8920c412957bf693dca451ca1&chksm=8c70953b72d79402fb15d37891f1a0a2e3ac49965a7a18ab7befc3ead9cad55d1c558b002927&mpshare=1&srcid=1122Yj4TF9Cw2v7h69eDDRGP&sharer_shareinfo=cd5bade3a0c8ebd94e28e18aba5807f8&sharer_shareinfo_first=cd5bade3a0c8ebd94e28e18aba5807f8&from=singlemessage&scene=1&subscene=10000&sessionid=1795419754&clicktime=1795420526&enterid=1795420526&ascene=1&fasttmpl_type=0&fasttmpl_fullversion=8535148-zh_CN-zip&fasttmpl_flag=0&realreporttime=1795420526774&devicetype=android-31&version=2800503a&nettype=WIFI&abtest_cookie=AAACAA%3D%3D)！
 - 2026年09月 项目立项：多模态具身问答智能体设计，企事业单位委托项目，主持！
 - 2026年06月 团队研究生穆廷睿等“智慧农业决策大模型”作品获第二十一届中国研究生电子设计竞赛西北赛区三等奖！
