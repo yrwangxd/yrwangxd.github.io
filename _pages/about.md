@@ -102,7 +102,7 @@ CN115130502B，申请日期：2022.06.16，授权日期：2025.09.01.
   
 [16]. Bai J, Zhang Y, **Wang Y\***, et al. [Robust Motion-Guided Frame Sampler with Interpretive Evaluation for Video Action Recognition](https://ieeexplore.ieee.org/abstract/document/10884961)[J]. ***IEEE Transactions on Mobile Computing***, 2025, 24(7): 6197-6208.（CCF A类期刊，中科院一区Top，**通讯作者**）
 
-[17]. 王艺然, 李文博, 姚潭等人. 融合知识图谱与多视图证据的免训练植物病害检索歧义消解框架[J]. 农业机械学报, 2026.（Accepted，国家一级学报，农业工程领域国内外权威期刊）
+[17]. **王艺然**, 李文博, 姚潭等人. 融合知识图谱与多视图证据的免训练植物病害检索歧义消解框架[J]. 农业机械学报, 2026.（Accepted，国家一级学报，农业工程领域国内外权威期刊）
 
 [18]. Gu M, **Wang Y**, Bai J, et al. [CampusFall: A Multi-Perspective Indoor and Outdoor Fall Detection Dataset Based on Campus Surveillance](https://ieeexplore.ieee.org/abstract/document/10650614)[C]//2024 International Joint Conference on Neural Networks (**IJCNN 2024**). IEEE, 2024: 1-8.（国际神经网络联合大会，CCF C类）
 
